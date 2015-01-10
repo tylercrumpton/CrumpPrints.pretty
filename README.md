@@ -1,7 +1,7 @@
 CrumpPrints.pretty
 ==================
 
-This is Git-style Kicad repo for footprints I've made. Feel free to make pull requests or fork.
+This a is Git-style Kicad repo for footprints I've made. Matching schematic symbols may be found in my [CrumpSchemes repo](https://github.com/tylercrumpton/CrumpSchemes). Feel free to make pull requests or fork.
 
 Footprint List
 --------------
