@@ -1,10 +1,10 @@
-(module WS2812B_smallsilk (layer F.Cu) (tedit 54B35A2D)
+(module WS2812B_smallsilk (layer F.Cu) (tedit 54B35D39)
   (tags "LED, Neopixel, RGB, WS2811, WS2812")
-  (fp_text reference WS2812B (at 0 -3.81) (layer F.SilkS) hide
-    (effects (font (size 1.5 1.5) (thickness 0.15)))
-  )
-  (fp_text value U** (at 0 0) (layer F.SilkS)
+  (fp_text reference U** (at 0.2 0) (layer F.SilkS)
     (effects (font (size 0.9 0.9) (thickness 0.1524)))
+  )
+  (fp_text value WS2812B (at 0 -2.8) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.8 0.8) (end 3 0.8) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.4 2) (end 1.4 1.2) (layer F.SilkS) (width 0.15))
