@@ -11,3 +11,4 @@ Footprint List
 * `Tiny_RTC_DS1307.kicad_mod`: Tiny RTC DS1307-based realtime clock board with EEPROM
 * `6x6mm_pushbutton.kicad_mod`: 6mm x 6mm momentary tact pushbutton
 * `APA102.kicad_mod`: APA102 SPI Addressable 5050 RGB LED
+* `SnapStack.kicad_mod`: SnapStack Header Pinout ([SnapStack project](https://github.com/tylercrumpton/SnapStack))
