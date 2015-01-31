@@ -12,3 +12,4 @@ Footprint List
 * `6x6mm_pushbutton.kicad_mod`: 6mm x 6mm momentary tact pushbutton
 * `APA102.kicad_mod`: APA102 SPI Addressable 5050 RGB LED
 * `SnapStack.kicad_mod`: SnapStack Header Pinout ([SnapStack project](https://github.com/tylercrumpton/SnapStack))
+* `CR2032_HOLDER.mod`: Linx CR2032/LIR2032 Battery Holder/Clip (BAT-HLD-001)
