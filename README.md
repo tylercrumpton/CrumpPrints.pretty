@@ -14,4 +14,4 @@ Footprint List
 * `SnapStack.kicad_mod`: SnapStack Header Pinout ([SnapStack project](https://github.com/tylercrumpton/SnapStack))
 * `CR2032_HOLDER.mod`: Linx CR2032/LIR2032 Battery Holder/Clip (BAT-HLD-001)
 * `SPDT_slide_switch.mod`: ALPS SPDT Slide Switch (SSSS810701)
-* 
+* `SM200.mod`: Synapse Wireless SM200 SNAP wireless module 
