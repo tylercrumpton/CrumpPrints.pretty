@@ -15,3 +15,4 @@ Footprint List
 * `CR2032_HOLDER.mod`: Linx CR2032/LIR2032 Battery Holder/Clip (BAT-HLD-001)
 * `SPDT_slide_switch.mod`: ALPS SPDT Slide Switch (SSSS810701)
 * `SM200.mod`: Synapse Wireless SM200 SNAP wireless module 
+* `16_snap.mod`: Size 16 (7/16") snap fastener
