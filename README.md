@@ -16,3 +16,6 @@ Footprint List
 * `SPDT_slide_switch.mod`: ALPS SPDT Slide Switch (SSSS810701)
 * `SM200.mod`: Synapse Wireless SM200 SNAP wireless module 
 * `16_snap.mod`: Size 16 (7/16") snap fastener
+* `MPCIe_full_card.kicad_mod`: Full mini PCI express card module
+* `MPCIe_half_card.kicad_mod`: Half mini PCI express card module
+* `MPCIe_socket.kicad_mod`: Socket for mini PCI express cards
