@@ -19,3 +19,5 @@ Footprint List
 * `MPCIe_full_card.kicad_mod`: Full mini PCI express card module
 * `MPCIe_half_card.kicad_mod`: Half mini PCI express card module
 * `MPCIe_socket.kicad_mod`: Socket for mini PCI express cards
+* `FB-45-4`: Polycase FB-45-4 four-button key fob PCB layout
+
