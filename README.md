@@ -9,7 +9,8 @@ Footprint List
 * `WS2812B_smallsilk.kicad_mod`: WS2812B Addressable RGB LED (4-Pin "Neopixel") with a smaller silkscreen size
 * `Arduino_Pro_Mini.kicad_mod`: Arduino Pro Mini 328 board with extra analog pins
 * `Tiny_RTC_DS1307.kicad_mod`: Tiny RTC DS1307-based realtime clock board with EEPROM
-* `6x6mm_pushbutton.kicad_mod`: 6mm x 6mm momentary tact pushbutton
+* `6x6mm_pushbutton.kicad_mod`: 6mm x 6mm momentary tact pushbutton (THT)
+* `6x6mm_pushbutton_smd.kicad_mod`: 6mm x 6mm momentary tact pushbutton (SMD)
 * `APA102.mod`: APA102 SPI Addressable 5050 RGB LED
 * `SnapStack.kicad_mod`: SnapStack Header Pinout ([SnapStack project](https://github.com/tylercrumpton/SnapStack))
 * `CR2032_HOLDER.kicad_mod`: Linx CR2032/LIR2032 Battery Holder/Clip (BAT-HLD-001)
