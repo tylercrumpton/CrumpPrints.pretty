@@ -24,4 +24,5 @@ Footprint List
 * `TC200.mod`: Custom Synapse Wireless SNAP wireless module
 * `RF200.mod`: Synapse Wireless RF200 SNAP wireless module
 * `Header_1x12_100.mod`: Standard 0.1" 1x12 pin header
+* `USB_Board_Edge.mod`: USB Board Edge connector (no parts needed)
 
