@@ -3,6 +3,12 @@ CrumpPrints.pretty
 
 This a is Git-style Kicad repo for footprints I've made. Matching schematic symbols may be found in my [CrumpSchemes repo](https://github.com/tylercrumpton/CrumpSchemes). Feel free to make pull requests or fork.
 
+Silkscreen-less Versions
+------------------------
+Any footprints that end with `_nosilk` do not contain any helpful silkscreen drawings for orientation or size reference. This is useful
+for large modules or extension baords where this silkscreen might get in the way of other silkscreens. My personal workflow is to use the
+silkscreened part for placement and routing, and then switch it out for a `nosilk` version.
+
 Footprint List
 --------------
 * `WS2812B.kicad_mod`: WS2812B Addressable RGB LED (4-Pin "Neopixel")
