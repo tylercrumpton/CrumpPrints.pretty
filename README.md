@@ -5,9 +5,8 @@ This a is Git-style Kicad repo for footprints I've made. Matching schematic symb
 
 Silkscreen-less Versions
 ------------------------
-Any footprints that end with `_nosilk` do not contain any helpful silkscreen drawings for orientation or size reference. This is useful
-for large modules or extension baords where this silkscreen might get in the way of other silkscreens. My personal workflow is to use the
-silkscreened part for placement and routing, and then switch it out for a `nosilk` version.
+Any footprints that end with `_nosilk` move any helpful silkscreen drawings for orientation or size reference to the Dwgs.User layer.
+This is useful for large modules or extension boards where this silkscreen might get in the way of other silkscreens.
 
 Footprint List
 --------------
