@@ -16,7 +16,7 @@ Footprint List
 * `Tiny_RTC_DS1307.kicad_mod`: Tiny RTC DS1307-based realtime clock board with EEPROM
 * `6x6mm_pushbutton.kicad_mod`: 6mm x 6mm momentary tact pushbutton (THT)
 * `6x6mm_pushbutton_smd.kicad_mod`: 6mm x 6mm momentary tact pushbutton (SMD)
-* `APA102.mod`: APA102 SPI Addressable 5050 RGB LED
+* `APA102.kicad_mod`: APA102 SPI Addressable 5050 RGB LED
 * `SnapStack.kicad_mod`: SnapStack Header Pinout ([SnapStack project](https://github.com/tylercrumpton/SnapStack))
 * `CR2032_HOLDER.kicad_mod`: Linx CR2032/LIR2032 Battery Holder/Clip (BAT-HLD-001)
 * `SPDT_slide_switch.kicad_mod`: ALPS SPDT Slide Switch (SSSS810701)
@@ -25,13 +25,13 @@ Footprint List
 * `MPCIe_full_card.kicad_mod`: Full mini PCI express card module
 * `MPCIe_half_card.kicad_mod`: Half mini PCI express card module
 * `MPCIe_socket.kicad_mod`: Socket for mini PCI express cards
-* `FB-45-4.mod`: Polycase FB-45-4 four-button key fob PCB layout
-* `TC200.mod`: Custom Synapse Wireless SNAP wireless module
-* `RF200.mod`: Synapse Wireless RF200 SNAP wireless module
-* `Header_1x12_100.mod`: Standard 0.1" 1x12 pin header
-* `USB_Board_Edge.mod`: USB Board Edge connector (no parts needed)
-* `D1_mini.mod`: Wemos D1 Mini
-* `Raspberry_Pi_Zero.mod`: Raspberry Pi Zero hat template
+* `FB-45-4.kicad_mod`: Polycase FB-45-4 four-button key fob PCB layout
+* `TC200.kicad_mod`: Custom Synapse Wireless SNAP wireless module
+* `RF200.kicad_mod`: Synapse Wireless RF200 SNAP wireless module
+* `Header_1x12_100.kicad_mod`: Standard 0.1" 1x12 pin header
+* `USB_Board_Edge.kicad_mod`: USB Board Edge connector (no parts needed)
+* `D1_mini.kicad_mod`: Wemos D1 Mini
+* `Raspberry_Pi_Zero.kicad_mod`: Raspberry Pi Zero hat template
 * `QRE1113GR.kicad_mod`: QRE1113GR Minature Reflective Object Sensor (SMD)
 * `QRE1113.kicad_mod`: QRE1113 Minature Reflective Object Sensor (THT)
 
