@@ -32,3 +32,6 @@ Footprint List
 * `USB_Board_Edge.mod`: USB Board Edge connector (no parts needed)
 * `D1_mini.mod`: Wemos D1 Mini
 * `Raspberry_Pi_Zero.mod`: Raspberry Pi Zero hat template
+* `QRE1113GR.kicad_mod`: QRE1113GR Minature Reflective Object Sensor (SMD)
+* `QRE1113.kicad_mod`: QRE1113 Minature Reflective Object Sensor (THT)
+
