@@ -34,4 +34,5 @@ Footprint List
 * `Raspberry_Pi_Zero.kicad_mod`: Raspberry Pi Zero hat template
 * `QRE1113GR.kicad_mod`: QRE1113GR Minature Reflective Object Sensor (SMD)
 * `QRE1113.kicad_mod`: QRE1113 Minature Reflective Object Sensor (THT)
+* `5V_buzzer.kicad_mod`: Small 5V piezo passive buzzer
 
