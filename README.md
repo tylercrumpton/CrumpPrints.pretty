@@ -17,6 +17,7 @@ Footprint List
 * `6x6mm_pushbutton.kicad_mod`: 6mm x 6mm momentary tact pushbutton (THT)
 * `6x6mm_pushbutton_smd.kicad_mod`: 6mm x 6mm momentary tact pushbutton (SMD)
 * `APA102.kicad_mod`: APA102 SPI Addressable 5050 RGB LED
+* `APA102_hand_solder.kicad_mod`: APA102 SPI Addressable 5050 RGB LED for hand-soldering (thanks [xxv](https://github.com/tylercrumpton/CrumpPrints.pretty/pull/3)!)
 * `SnapStack.kicad_mod`: SnapStack Header Pinout ([SnapStack project](https://github.com/tylercrumpton/SnapStack))
 * `CR2032_HOLDER.kicad_mod`: Linx CR2032/LIR2032 Battery Holder/Clip (BAT-HLD-001)
 * `SPDT_slide_switch.kicad_mod`: ALPS SPDT Slide Switch (SSSS810701)
