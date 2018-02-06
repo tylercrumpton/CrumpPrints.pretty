@@ -21,7 +21,7 @@ Footprint List
 * `SnapStack.kicad_mod`: SnapStack Header Pinout ([SnapStack project](https://github.com/tylercrumpton/SnapStack))
 * `CR2032_HOLDER.kicad_mod`: Linx CR2032/LIR2032 Battery Holder/Clip (BAT-HLD-001)
 * `SPDT_slide_switch.kicad_mod`: ALPS SPDT Slide Switch (SSSS810701)
-* `SM200.kicad_mod`: Synapse Wireless SM200 SNAP wireless module 
+* `SM200.kicad_mod`: Synapse Wireless SM200 SNAP wireless module
 * `16_snap.kicad_mod`: Size 16 (7/16") snap fastener
 * `MPCIe_full_card.kicad_mod`: Full mini PCI express card module
 * `MPCIe_half_card.kicad_mod`: Half mini PCI express card module
@@ -38,4 +38,8 @@ Footprint List
 * `5V_buzzer.kicad_mod`: Small 5V piezo passive buzzer
 * `3x6x3.5mm_side_pushbutton_smd.kicad_mod`: eBay "Side Push Tact Button Switch"
 * `SK22D07_DPDT_slide_switch.kicad_mod`: eBay SK22D07 DPDT right angle slide switch
+* `QFN_44.kicad_mod`: Generic QFN44 package
+* `0480372200_Molex_USB_A_Plug_SMT.kicad_mod`: Molex USB A edge-mount plug
+* `SMLP34RGB.kicad_mod`: Rohm SMD RGB LED 1.0x1.0mm
+
 
