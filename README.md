@@ -41,5 +41,6 @@ Footprint List
 * `QFN_44.kicad_mod`: Generic QFN44 package
 * `0480372200_Molex_USB_A_Plug_SMT.kicad_mod`: Molex USB A edge-mount plug
 * `SMLP34RGB.kicad_mod`: Rohm SMD RGB LED 1.0x1.0mm
-
+* `18650_Holder.kicad_mod`: 18650 LiPo battery holder
+* `1W_RGB_LED_6PIN.kicad_mod`: Round 1W 6-Pin RGB LED
 
