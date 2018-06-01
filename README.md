@@ -43,4 +43,5 @@ Footprint List
 * `SMLP34RGB.kicad_mod`: Rohm SMD RGB LED 1.0x1.0mm
 * `18650_Holder.kicad_mod`: 18650 LiPo battery holder
 * `1W_RGB_LED_6PIN.kicad_mod`: Round 1W 6-Pin RGB LED
+* `TerminalBlock_bornier-12_P5.08mm`: 12p version of bornier2 5.08mm-pitch terminal block
 
