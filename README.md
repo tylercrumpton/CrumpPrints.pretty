@@ -45,4 +45,5 @@ Footprint List
 * `1W_RGB_LED_6PIN.kicad_mod`: Round 1W 6-Pin RGB LED
 * `TerminalBlock_bornier-12_P5.08mm`: 12p version of bornier2 5.08mm-pitch terminal block
 * `WSON-6p-2x2mm.kicad_mod`: WSON 6-pin 2x2mm package with thermal pad
+* `UCSP-9p-0.4mm.kicad_mod`: Maxim UCSP 9-pin 0.4mm pitch 3x3 BGA
 
