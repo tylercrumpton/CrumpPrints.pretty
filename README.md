@@ -46,4 +46,5 @@ Footprint List
 * `TerminalBlock_bornier-12_P5.08mm`: 12p version of bornier2 5.08mm-pitch terminal block
 * `WSON-6p-2x2mm.kicad_mod`: WSON 6-pin 2x2mm package with thermal pad
 * `UCSP-9p-0.4mm.kicad_mod`: Maxim UCSP 9-pin 0.4mm pitch 3x3 BGA
+* `Switch_APEM_ADTSM3_3.5x6mm.kicad_mod`: APEM ADTSM3 SMD 3.5x6mm pushbutton tact switch
 
