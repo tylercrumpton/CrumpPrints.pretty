@@ -50,4 +50,5 @@ Footprint List
 * `TC2030-MCP.kicad_mod`: Tag-Connect "Legged" footprint
 * `Texas_VSON-10_3.0x3.0mm_P0.5mm_DRC.kicad_mod`: TI VSON-10 DRC footprint
 * `Inductor_Bourns-SRN6045.kicad_mod`: Bourns SRN6045 series SMD inductor
+* `USB_C_Receptacle_SMD_THT.kicad_mod`: eBay USB Type-C Receptacle (THT/SMD)
 
