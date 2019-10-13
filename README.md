@@ -52,3 +52,6 @@ Footprint List
 * `Inductor_Bourns-SRN6045.kicad_mod`: Bourns SRN6045 series SMD inductor
 * `USB_C_Receptacle_SMD_THT.kicad_mod`: eBay USB Type-C Receptacle (THT/SMD)
 * `WS2812-2020.kicad_mod`: WS2812 2020-size micro addressable RGB LED
+* `BatteryHolder_Keystone_2460_1xAA.kicad_mod`: Keystone 1xAA battery holder
+* `L_Cheng_13x13mm.kicad_mod`: Cheng 13x13mm inductor
+* `L_Cheng_7x7mm.kicad_mod`: Cheng 7x7mm inductor
